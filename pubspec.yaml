@@ -1,3 +1,4 @@
+# like requirements.txt, add googlemaps etc here if need
 name: saffar
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
